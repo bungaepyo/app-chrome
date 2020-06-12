@@ -4,6 +4,10 @@ const currentUserName = "currentUserName",
       askName = document.querySelector(".js-askName");
       greeting = document.querySelector(".js-greeting")
 
+function changeName(){
+    //
+}
+
 function saveName(name){
     localStorage.setItem(currentUserName,name);
 }

@@ -8,9 +8,11 @@ Technologies included in this extension are:
 
 This extension has the following features:
 - Customized name greetings
-<!-- - Random background images -->
-<!-- - 24-hr Clock -->
-<!-- - To-do checklist -->
-<!-- - Weather indicator -->
+- Random backgrounds (Image source: https://unsplash.com/)
+- 24-hr Clock
+- Weather indicator
+- Currency (Won - Dollar)
+- Stock Prices
+
 
 <!-- Installing into your chrome browser -->
