@@ -1,0 +1,21 @@
+.main-box{
+    background-color: #f7f7ee;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.js-askName{
+    display: none;
+}
+
+.js-greeting{
+    display: none;
+}
+
+.js-greeting-box{
+    text-align: center;
+}
+
+.showing{
+    display: block;
+}
